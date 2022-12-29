@@ -4,3 +4,8 @@ soy estudiante de desarrollo de software.
 
 Historia laboral:
 desempleado, en busca de ello.
+
+address:
+Vivo en Cartagena de Indias - Colombia -
+barrio Vista hermosa, cr 60 - DG 29 - cll 9
+mz 6 - l 11.
