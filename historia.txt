@@ -14,3 +14,5 @@ Datos personales
 cc. 73130461
 casado
 2 hijos
+
+haciendo pull request a main
